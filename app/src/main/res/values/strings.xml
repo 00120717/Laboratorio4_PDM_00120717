@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Labo4_00120717</string>
+    <string name="movie_title_string">movie</string>
+    <string name="lorem_30_string">lorem</string>
+    <string name="runtime_ex_string">130min.2</string>
+    <string name="rate_ex_string">8.2</string>
+    <string name="movie_name_string">movie name</string>
+    <string name="n_a_value">N/A</string>
+</resources>
